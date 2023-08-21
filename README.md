@@ -94,7 +94,7 @@ I am to ensure website that I build are built with accessibility in mind. I welc
 
 ## License
 
-This project is licensed under [MIT License][./LICENCE].
+This project is licensed under [MIT License](./LICENCE).
 
 ---
 
